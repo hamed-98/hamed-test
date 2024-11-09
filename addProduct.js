@@ -4,7 +4,7 @@ export default function addProduct() {
   return (
     <div>
         <div>
-            <h1></h1>
+            <h1>salam</h1>
         </div>
     </div>
   )
