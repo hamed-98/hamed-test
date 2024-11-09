@@ -7,6 +7,10 @@ export default function addProduct() {
     }
 
   return (
-    <div>addProduct</div>
+    <div>
+        <div>
+            <h1>salam</h1>
+        </div>
+    </div>
   )
 }
